@@ -1,0 +1,108 @@
+{
+  "configVersion": 2,
+  "recordingControls": {
+    "controlsLocation": "RIGHT",
+    "automaticallyStart": false,
+    "automaticallyFinish": true,
+    "showRecordingToasts": true,
+    "quicksave": false
+  },
+  "recording": {
+    "markDimensionChanges": true,
+    "recordHotbar": false,
+    "localPlayerUpdatesPerSecond": 20,
+    "recordVoiceChat": false
+  },
+  "exporting": {
+    "defaultExportFilename": "%date%T%time%",
+    "exportRenderDummyFrames": 0
+  },
+  "keyframes": {
+    "defaultInterpolationType": "SMOOTH",
+    "useRealtimeInterpolation": true
+  },
+  "editorMovement": {
+    "flightDirection": "HORIZONTAL",
+    "flightMomentum": 1.0,
+    "flightLockX": false,
+    "flightLockY": false,
+    "flightLockZ": false,
+    "flightLockYaw": false,
+    "flightLockPitch": false
+  },
+  "marker": {
+    "markerOptions1": {
+      "color": "RED",
+      "customRGB": "#FF0000",
+      "savePosition": true,
+      "description": ""
+    },
+    "markerOptions2": {
+      "color": "RED",
+      "customRGB": "#FF0000",
+      "savePosition": true,
+      "description": ""
+    },
+    "markerOptions3": {
+      "color": "RED",
+      "customRGB": "#FF0000",
+      "savePosition": true,
+      "description": ""
+    },
+    "markerOptions4": {
+      "color": "RED",
+      "customRGB": "#FF0000",
+      "savePosition": true,
+      "description": ""
+    }
+  },
+  "advanced": {
+    "disableIncreasedFirstPersonUpdates": false,
+    "disableThirdPersonCancel": false,
+    "synchronizeTicking": false
+  },
+  "internal": {
+    "recentReplays": [
+      "C:\\Users\\kindl\\curseforge\\minecraft\\Instances\\Oritech\\flashback\\replays\\2026-03-20T08_13_01.zip",
+      "C:\\Users\\kindl\\curseforge\\minecraft\\Instances\\Oritech\\flashback\\replays\\quary.zip",
+      "C:\\Users\\kindl\\curseforge\\minecraft\\Instances\\Oritech\\flashback\\replays\\2026-03-19T08_06_11.zip",
+      "C:\\Users\\kindl\\curseforge\\minecraft\\Instances\\Oritech\\flashback\\replays\\trees.zip",
+      "C:\\Users\\kindl\\curseforge\\minecraft\\Instances\\Oritech\\flashback\\replays\\tree_clearing.zip"
+    ],
+    "openedWindows": [],
+    "nextUnsupportedModLoaderWarning": 0,
+    "filterUnnecessaryPackets": true,
+    "signedRenderFilter": false,
+    "viewedTipsOfTheDay": 1,
+    "showTipOfTheDay": false,
+    "nextTipOfTheDay": 1772394193539,
+    "replaySorting": "CREATED_DATE",
+    "sortDescending": true,
+    "defaultOverrideFov": 70.0,
+    "enableOverrideFovByDefault": false
+  },
+  "internalExport": {
+    "resolution": [
+      2560,
+      1440
+    ],
+    "framerate": [
+      60.0
+    ],
+    "resetRng": false,
+    "ssaa": false,
+    "noGui": false,
+    "container": "MP4",
+    "videoCodec": "H264",
+    "selectedVideoEncoder": [
+      0
+    ],
+    "useMaximumBitrate": true,
+    "recordAudio": false,
+    "transparentBackground": false,
+    "audioCodec": "AAC",
+    "stereoAudio": false,
+    "defaultExportPath": "C:\\Users\\kindl\\curseforge\\minecraft\\Instances\\Oritech\\replay_videos"
+  },
+  "forceDefaultExportSettings": {}
+}
